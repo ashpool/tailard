@@ -9,4 +9,10 @@
 
 ```
 
+Tailard is a visual log tailing system. You'll need:
 
+* An Arduino
+* A LED
+* A host computer with Python installed
+* A log file residing on a remote server
+* (Optionally) a ping pong ball
