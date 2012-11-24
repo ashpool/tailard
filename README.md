@@ -16,5 +16,4 @@ Tailard is a visual log tailing system. You'll need:
 * A host computer with Python installed
 * A log file residing on a remote server
 * (Optionally) a ping pong ball
-
-http://instagr.am/p/SaoLMXjqe5/
+<img src="http://instagr.am/p/SaoLMXjqe5/">
