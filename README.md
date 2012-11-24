@@ -12,7 +12,6 @@
 Tailard is a visual log tailing system. 
 
 You'll need:
-
 * An Arduino
 * A LED
 * A host computer with Python installed
