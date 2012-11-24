@@ -1,0 +1,6 @@
+[monitor]
+host: <server address>
+uname: <username>
+pword: <password>
+logfile: <path to file>
+serial_path: <example /dev/tty.usbmodem1411>
