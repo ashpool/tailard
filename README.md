@@ -9,7 +9,9 @@
 
 ```
 
-Tailard is a visual log tailing system. You'll need:
+Tailard is a visual log tailing system. 
+
+You'll need:
 
 * An Arduino
 * A LED
